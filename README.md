@@ -1,6 +1,6 @@
 Hi there,
 
-I am a C++ developer from Singapore! Over the years, I made a couple of C++ April Fool posts at my blog. The next amazing thing is there are people visit my blog everyday just to read my April Fool posts. Sad thing is my C++ blog reduced to joke blog.
+I am a C++ developer from Singapore! Over the years, I made a couple of C++ April Fool posts at my blog. The next amazing thing is there are people visit my blog everyday just to read my April Fool posts even when I did not advertise them for the 1st 3 years. Sad thing is my C++ blog reduced to joke blog.
 
 Hope you like them! Let me know your comments!
 

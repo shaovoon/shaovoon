@@ -1,14 +1,6 @@
 Hi there,
 
-I am a C++ developer from Singapore! Over the years, I made a couple of C++ April Fool posts at my blog. The next amazing thing is there are people visit my blog everyday just to read my April Fool posts even when I did not advertise them for the 1st 3 years. Sad thing is my C++ blog reduced to joke blog.
-
-Hope you like them! Let me know your comments!
-
-* [2019: C++23: fullptr to replace nullptr](https://codingtidbit.com/2019/04/01/c22-fullptr-to-replace-nullptr/)
-* [2020: C++23: Mutable string_view](https://codingtidbit.com/2020/04/01/c23-mutable-string_view/)
-* [2021: C++23: -&gt; and :: to be replaced by . operator](https://codingtidbit.com/2021/04/01/c23-and-to-be-replaced-by-operator/)
-
-Over the years, I have contributed some C++ and C# articles to Codeproject.
+I am a C++ developer from Singapore! Over the years, I have contributed some C++ and C# articles to Codeproject.
 
 [Codeproject Article Page](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=88591)
 

@@ -1,8 +1,6 @@
-Hi there,
+I am a C++ developer from Singapore! I prefers to write applications based on 3rd party libraries than rolling out my own library. My interest lies primarily in computer graphics, software optimization, concurrency and security.
 
-I am a C++ developer from Singapore! Over the years, I have contributed some C++ and C# articles to Codeproject.
-
-[Codeproject Article Page](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=88591)
+Over the years, I have contributed [some C++ and C# articles to Codeproject](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=88591)
 
 ### Github Statistics
 

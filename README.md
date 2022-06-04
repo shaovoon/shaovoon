@@ -1,5 +1,3 @@
-My name is Shao Voon. I am a C++ developer from Singapore! I prefers to write applications based on 3rd party libraries than rolling out my own library. My interest lies primarily in computer graphics, software optimization, concurrency and security.
+My name is Shao Voon Wong (黄绍文). I am a C++ developer from Singapore! I prefer to write applications based on 3rd party libraries than rolling out my own library. My interest lies primarily in computer graphics, software optimization, concurrency and security.
 
-Over the years, I have contributed [some C++ and C# articles to Codeproject](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=88591)
-
-![ShaoVoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaovoon&show_icons=true&theme=cobalt)
+Over the years, I have contributed [some C++ and C# articles to Codeproject](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=88591). Hope you have fun reading them!

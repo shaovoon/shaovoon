@@ -5,3 +5,5 @@ Over the years, I have contributed [some C++ and C# articles to Codeproject](htt
 Recently, I released my C++/DirectX photo slideshow application, Mandy Frenzy. You can click on the image below to view its video on Youtube.
 
 [![Mandy Frenzy Video](https://img.youtube.com/vi/ilSeZznzDt4/0.jpg)](https://www.youtube.com/watch?v=od1Z9nb5vwQ)
+
+[![Shao Voon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaovoon)](https://github.com/anuraghazra/github-readme-stats)
